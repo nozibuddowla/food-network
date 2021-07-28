@@ -1,6 +1,4 @@
-/* font-family: 'Manrope',
-sans-serif;
- */
+
 
 * {
     margin: 0;
@@ -79,7 +77,6 @@ a {
     margin-right: 30px;
     margin-left: 100px;
 }
-
 .width-50 h1 {
     font-style: normal;
     font-weight: bold;
@@ -124,7 +121,36 @@ a {
 }
 
 .hero-bg img {
-    background-image: url("../images/bg7.png");
+    background-image: url("/images/bg7.png");
     background-repeat: no-repeat;
     background-position: 100% 80%;
+}
+
+.cover-section {
+    background: url("/images/Frame59.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.cover-img {
+    margin-top: 64px;
+    margin-left: 199px;
+}
+
+.cover-img img {
+    height: 536px;
+}
+.cover-content {
+    margin-top: 127px;
+}
+
+.cover-content p {
+    font-family: 'Manrope',
+    sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #18191F;
 }
