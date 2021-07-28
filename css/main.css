@@ -308,3 +308,35 @@ a {
 #recipes-3 {
     background: #9e99ad;
 }
+
+
+
+.foot-sec {
+    background: #0B0D17;
+}
+
+.foot-sec h1 {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 41px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 37px;
+}
+
+.foot-sec h1 span {
+    color: orange;
+}
+
+.foot-sec p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 37px;
+    padding-bottom: 100px;
+}
