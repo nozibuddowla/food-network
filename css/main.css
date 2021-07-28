@@ -62,3 +62,69 @@ a {
 .routes ul li a:hover {
     color: black;
 }
+
+
+.hero-section {
+    padding: 80px 0px;
+
+}
+
+.width-50 {
+    width: 40%;
+    float: left;
+}
+
+.hero-content {
+    padding-top: 150px;
+    margin-right: 30px;
+    margin-left: 100px;
+}
+
+.width-50 h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: #575757;
+    line-height: 130%;
+    letter-spacing: -0.02em;
+}
+
+.width-50 span {
+    color: #FBA24F;
+}
+
+.width-50 p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    color: #828282;
+    margin-top: 40px;
+    text-align: justify;
+}
+
+.width-50 .button {
+    display: inline-block;
+    padding: 22px 64px;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-style: none;
+    border-radius: 100px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 49px;
+}
+
+.width-50 a:hover {
+    background: #FBA24F;
+    color: #575757;
+}
+
+.hero-bg img {
+    background-image: url("../images/bg7.png");
+    background-repeat: no-repeat;
+    background-position: 100% 80%;
+}
